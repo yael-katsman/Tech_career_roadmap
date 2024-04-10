@@ -46,5 +46,6 @@ To run the project, follow these steps:
    
 3. Run the command:
    ```bash
-   jupyter nbconvert --to notebook --execute your_notebook.ipynb 
+   python run.py /path/to/user_data.csv model_and_eval.ipynb
+
    ```
