@@ -1,0 +1,329 @@
+skills,degree_field,courses_title,cert_titles,cluster_label
+"['Wireless', 'computing']",[],[''],[],0
+"['Enhanced', 'Multithreading', 'Concurrency']","['Theoretical Sciences', 'Theoretical Sciences']",[''],[],0
+"['Disability', 'Virtual', 'IT', 'management']",[],[''],[],0
+"['Model', 'Data', 'Conflict']",[],['business management'],[],0
+"['Operating', 'device', 'C']",[],[''],[],0
+"['Active', 'Management', 'Server', 'Services']",[],[''],[],0
+"['Kernel', 'Techniques', 'Driver']",[],[''],[],0
+"['Linux', 'Management', 'FPGA', 'Width']","['Computer Science and Engineering', 'Electrical and Computer Engineering']",[''],[],1
+"['Thread', 'Thread', 'Singleton']",[],[''],[],0
+"['Data', 'Data', 'Business']","['Industrial Engineering and Operations Research', 'Philosophy and Related Fields']",[''],[],0
+"['Test-driven', 'Ruby', 'Rails', 'Spring', 'development']","['Information Technology and Management', 'Strategic Management and Innovation', 'Computer Science and Engineering']","['applied economics managers', 'business strategy role it', 'competitive dynamics strategy - winning technology markets', 'data', 'models decisions', 'disruptive technologies: predator or prey', 'financial management', 'financial managerial accounting', 'how develop breakthrough products services', 'innovation strategy', 'management supply networks', 'marketing management', 'power negotiation', 'special seminar management (15.s20)', 'special seminar management (15.s21)']","['Project Management Professional', 'TOGAF 8.1.1 Certification', 'SpringSource Certified Professional - Spring Framework 2.5', 'IBM Certified System Administrator - Websphere Application Server, Network Deployment, V6.1', 'Sun Certified Enterprise Architect for the Java Platform, Enterprise Edition 5', 'Sun Certified Developer for Java Web Services', 'Sun Certified Business Component Developer for the Java Platform, Enterprise Edition 5', 'Sun Certified Web Component Developer for the Java Platform, Enterprise Edition 5', 'Sun Certified Programmer for the Java Platform, Standard Edition 6']",11
+"['Mobile', 'interface', 'Programming']",[],[''],['Certified Java 2 Programmer'],0
+['organization'],"['Web Development and Design', 'Telecommunications and Electronics']",[''],"['Management Excellence at Microsoft: Model, Coach, Care', 'Speaking Confidently and Effectively', 'Effective Listening', 'Microsoft Datacenter Operations Services Inventory & Asset Management Specialist', 'Accessibility in Action', 'How to Rock an Interview', 'Interpersonal Communication', 'Microsoft Teams Quick Tips', 'The Five Thieves of Happiness (getAbstract Summary)', 'Defining and Achieving ""Success""', 'Being an Effective Team Member', 'Creating a Career Plan', 'How Getting Curious Helps You Achieve Everything', 'Improving Your Judgment for Better Decision-Making', 'Improving Your Listening Skills', 'Job Skills: Supply Chain and Operations', 'Managing Logistics', 'Strategic Thinking', 'Supply Chain Basics For Everyone', 'The Six Morning Habits of High Performers', 'What to Do in the First 90 Days of Your New Job', 'CPR/AED/First Aid']",12
+"['Functional', 'Cloud', 'Efficient']","['Network Engineering and Administration', 'Electrical and Computer Engineering', 'STEM']",[''],['Rust Essential Training'],12
+"['Web', 'Design', 'Project', 'Methodology']","['Business and Administration', 'Computer Science and Engineering', 'Electrical Engineering and Related Disciplines']",[''],[],13
+['Network'],['Quantitative Economics and Mathematics'],[''],"['Kepner-Tregoe Certified Program Leader', 'Cisco Certified Internetwork Expert Routing and Switching (CCIE-RS)', 'Cisco Certified Internetwork Expert Enterprise Infrastructure (CCIE Enterprise Infrastructure)']",0
+"['Firewall', 'Security', 'IP']","['Data Science and Management', 'Network Engineering and Administration', 'Communications and Electronics Engineering', 'Communications and Electronics Engineering', 'Network and Computer Systems', 'Communications and Electronics Engineering']",[''],"['PCCSE - Prisma Certified Cloud Security Engineer', 'AWS Certified Cloud Practitioner', 'Google Cloud Certified Professional Cloud Network Engineer', 'Microsoft Certified: Azure Solutions Architect Expert', 'Exam Prep: AWS Certified Advanced Networking - Specialty (ANS-C01)', 'Google Cloud Certified Professional Cloud Architect', 'Microsoft Certified: Azure Administrator Associate', 'Microsoft Certified: Azure Security Engineer Associate', 'Microsoft Certified: Azure Network Engineer Associate', 'AWS Academy Graduate - AWS Academy Cloud Foundations', 'Aviatrix Certified Engineer - Multi-Cloud Network Associate (ACE)', 'Palo Alto Networks Certified Security Engineer (PCNSE)', 'NSE 1 Network Security Associate', 'Palo Alto - Accredited Configuration Engineer (ACE)', 'DCNID : Cisco Data Center Networking Infrastructure Design Specialist', 'Cisco Certified Specialist - Enterprise Design', 'CCDA : Cisco Certified Design Associate', 'CCDP : Cisco Certified Design Professional', 'Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation', 'Cisco Certified Specialist - Enterprise Core', 'CCNP RS: Cisco Certified Network Professional', 'CCNP Voice: Cisco Certified Network Professional Voice', 'CCNA Voice : Cisco Certified Network Associate-Voicee', 'CCNA : Cisco Certified Network Associate', 'Cisco Certified Design Specialist', 'Cisco Certified Internetwork Expert Data Center (CCIE Data Center#4439X)', 'AWS Certified Cloud Practitioner', 'Prisma Certified Cloud Security Engineer', 'Cisco Certified Networking Professional -Enterprise', 'Cisco Certified Specialist - Enterprise Core', 'CCIE : Cisco Certified Internetwork Expert, CCIE Collaboration (Written)', 'CCIE : Cisco Certified Internetwork Expert, CCIE RS (Written)', 'CCIE : Cisco Certified Internetwork Expert, CCIE Security V4.0 (Written)']",4
+"['Penetration', 'Ethical', 'Security']",[],[''],"['PA QSA', 'PCI QSA']",0
+"['Debugging', 'Raspberry', 'Debugging and Troubleshooting']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],['MEF 2.0 Certification'],7
+"['Kubernetes', 'Cloud', 'Identity']","['Information Technology and Management', 'Computer Science and Engineering']",[''],"['VMware Certified Professional 6 – Data Center Virtualization', 'Security+', 'VCP5-DCV (510)']",1
+"['Attribute', 'Package', 'Web', 'development']",['Electrical and Computer Engineering'],[''],[],15
+"['Kernel', 'Semantic', 'Troubleshooting']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Sound', 'generation', 'Animation']",[],[''],[],0
+"['Cloud', 'management', 'SignalR', 'Virtual', 'Configuration Management']",[],[''],[],0
+"['Remote', 'Ideation and Prototyping', 'Stakeholder']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Object-oriented', 'design', 'fundamentals']",['Computer Science and Engineering'],[''],[],1
+"['Network', 'Hardware', 'Command-Line']",['Electrical Engineering and Electronics'],[''],['Preventing Workplace Harassment'],0
+"['Cloud', 'development']","['Information Systems Management and Technology', 'Business and Administration']",[''],"['Exin Cloud Computing', 'Oracle Cloud Infrastructure Foundations 2020 Certified Associate']",15
+"['Sound', 'Agile', 'JavaScript']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Design', 'Continuity', 'Design', 'Storage', 'Architect', 'Solutions']",[],[''],[],0
+"['Kernel', 'System', 'Embedded']",[],[''],[],0
+"['IT', 'Database']","['Information Systems Management and Technology', 'Engineering and Applied Sciences', 'Engineering and Applied Sciences']",[''],[],15
+"['Storage', 'Data', 'Performance']",['Information Technology and Management'],[''],[],0
+"['PCB', 'C', 'Code']","['Electrical and Computer Engineering', 'Electrical and Computer Engineering']",[''],[],15
+"['Software', 'User', 'Web']","['Computer Science Applications', 'Computer Science and Engineering']",[''],['PMP'],1
+"['3D', 'LAMP', 'Cloud']","['Computer Systems and Systems Engineering', 'Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Network', 'Configuration Management', 'Routing']",[],[''],[],0
+"['Strategy', 'Industry', 'Sales', 'Optimization']",[],[''],[],0
+"['Network', 'Routing', 'Troubleshooting']",[],[''],"['CMNA', 'Palo Alto Networks Accredited Configuration Engineer', 'A+ Certification']",0
+"['Data', 'Data', 'Machine']","['Statistical Sciences', 'Mathematical Sciences']",[''],[],15
+"['IoT', 'model', 'C', 'Debugging and Troubleshooting']",['Electrical and Computer Engineering'],[''],[],15
+"['Test', 'Version', 'Multicloud']",[],[''],[],0
+"['Group', 'Shell']",['Information Technology'],[''],[],10
+"['iOS', 'development', 'React', 'development']",['Systems Engineering'],[''],[],0
+"['Data', 'Python', 'Data', 'functions']",['Computational Mathematics and Engineering'],[''],[],0
+"['Agile', 'Cloud', 'Linux', 'drivers']",['Computer Science and Engineering'],[''],[],1
+"['Cloud', 'services', 'Resource', 'scaling', 'Kubernetes', 'orchestration']","['Computer Science and Engineering', 'Communication and Information Technology', 'International Studies']",[''],[],1
+"['HTML', 'Web', 'Web', 'principles']",['Music and Technology'],[''],[],0
+"['Technical', 'principles']","['General and Interdisciplinary Studies', 'Information Technology (IT) and Management', 'Mechanical Engineering and Related Fields']",[''],"['Oracle Cloud Infrastructure 2020 Certified Architect Associate', 'Oracle Cloud Infrastructure Foundations 2020 Certified Associate', 'Six Sigma Black Belt', 'Project Management Professional (PMP)®']",14
+"['Java', 'fundamentals', 'Exception']",['Computational Mathematics and Engineering'],[''],[],0
+"['Hybrid', 'Planning', 'Nastran', 'Project']","['Mechanical Engineering and Related Fields', 'Mechanical Engineering and Related Fields', 'Engineering and Applied Sciences']",[''],"['Signal Processing with MATLAB', 'Deep Learning with MATLAB', 'Stateflow for Automotive Applications', 'Machine Learning with MATLAB', 'Simulink for Automotive System Design', 'Six Sigma Green Belt (DMAIC) - Completed']",15
+"['Database', 'Cloud', 'Management']",['Information Technology'],[''],['Oracle Cloud Infrastructure Foundations 2020 Certified Associate'],10
+"['JSON', 'handling', 'Cloud-native']","['Information Technology', 'Natural Sciences and Mathematics', 'STEM (Science, Technology, Engineering, and Mathematics) Cluster']",[''],[],10
+"['Web', 'PLC', 'Industrial']",['Business and Administration'],"['fire alarm system with nfpa codes: latest 2023', 'complete course water wastewater treatment', 'javascript essentials']",['Electrician [Master]'],0
+"['Security', 'deployment']",['Electronics and Computer Systems'],[''],[],0
+"['Network', 'Video', 'Communication and Interpersonal Skills']",[],[''],['Electrician [Master]'],0
+"['Project', 'Hardware', 'Circuit']",[],[''],[],0
+"['Sales', 'design', 'Global']","['Mathematical Sciences', 'Communications and Electronics Engineering']",[''],[],12
+"['IoT', 'management', 'command', 'Agile', 'management']","['Computer Science and Engineering', 'Engineering and Sciences']",[''],[],1
+"['Agile', 'Cisco', 'Java']",['Computer Science and Engineering'],[''],"['IBM Certified Solution Developer XML and Related Technologies', 'Sun Certified Business Component Developer', 'Sun Certified Programmer', 'Sun Certified Web Component Developer']",1
+"['Storage', 'Data', 'Storage']",['Electrical and Computer Engineering'],[''],[],15
+"['Network', 'Troubleshooting', 'Network']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['FPGA', 'CAD', 'Eurorack']",['Electrical and Computer Engineering'],[''],[],15
+"['Data', 'Predictive', 'Python']","['Theoretical Sciences', 'Languages and Literature', 'Language and Computation']",[''],"['Coaching and Developing Employees', 'Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking']",14
+"['Machine', 'techniques', 'Wavelet', 'methods', 'Computer', 'Data Foundations and Algorithmics']","['Mathematical Sciences', 'Mathematical Sciences', 'Mathematical Sciences', 'Digital Media and Communications']","['computational linear algebra', 'computational optimization', 'data mining', 'deep learning', 'functional analysis', 'information theory', 'machine learning', 'mathematical finance', 'optimization methods data analysis processing', 'probabilistic graphical models', 'regression analysis', 'uncertainty quantification']",[],15
+"['Product', 'Data', 'Statistical']",[],[''],[],0
+"['Facilitation', 'Workshop', 'Business', 'skills']","['Financial Management and Analysis', 'Engineering and Sciences']",['boston university business analyst course'],"['Professional, Academy for Healthcare Management']",0
+"['Cloud', 'Network', 'DevOps']",['Mathematical Sciences'],[''],[],15
+"['Threading', 'Techniques', 'JavaScript']","['Computer Science and Engineering', 'Technology and Applied Sciences']",[''],[],1
+"['Disaster', 'Mobilization']",['Communication and Information Technology'],[''],"['Instructor Recognition - 10 Classes Delivered', 'Accessibility in Action', 'MS-301 Deploying SharePoint Server Hybrid', 'Microsoft Teams Bot Development', 'Windows Server 2019 Essential Training', 'MS-300 Deploying Microsoft 365 Teamwork', 'Microsoft Technical Specialist: Microsoft SharePoint 2010, Configuring', 'Microsoft Certified: Power Platform App Maker Associate', 'Microsoft 365 Certified: Teamwork Administrator Associate', 'Microsoft Certified Trainer 2019-2020', 'Microsoft Certified Technical Specialist: SharePoint 2007 Application Development', 'Microsoft Certified Technical Specialist: SharePoint 2007 Installation and Configuration']",15
+"['Hardware', 'C', 'FPGA']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Electronics']",[''],[],7
+"['Network', 'optimization', 'Device']","['Computer Science and Engineering', 'Computer Science Applications', 'Physical and Mathematical Sciences']",[''],[],1
+"['Natural', 'Data Analytics Suite']","['Languages and Literature', 'STEM', 'STEM', 'STEM']",[''],[],14
+"['Business', 'Salesforce', 'Sales']",[],[''],[],0
+"['Building', 'fortitude']","['Languages and Literature', 'Engineering and Applied Sciences', 'Engineering and Applied Sciences', 'Engineering and Applied Sciences', 'General and Interdisciplinary Studies']",[''],[],14
+"['Data', 'Data', 'Data']","['Information Technology', 'Humanities and Social Studies']",[''],"['Prosci® Taking Charge of Change', 'Designing and Implementing Big Data Analytics Solutions', 'Six Sigma - Green belt', 'Design Thinking']",10
+"['Windows', 'Test', 'development', '11']",[],[''],[],0
+"['Multithreading', 'development', 'development']",[],[''],"['AWS Solutions Architect Professional', 'AWS Certified Developer Associate', 'Certified ScrumMaster (CSM)']",0
+"['Data', 'detection']",[],[''],"['Certified in Cybersecurity (CC)', '(ISC)² Candidate']",0
+"['Package', 'Cloud', 'Automation Engineering']",[],[''],[],0
+"['Cloud', 'design', 'Data', 'management']",[],[''],[],0
+"['Data', 'Management', 'Disaster']",['Information Technology'],[''],"['Microsoft Global Hackathon 2022', 'Technical Leadership Development Program - Alumni', 'Valuable Contributor Silver', 'Accessibility in Action', 'Cert Prep: ITIL® 3 Foundation', 'Communicating Across Cultures', 'Customer Service Foundations', 'Developing Executive Presence', 'Effective Listening', 'Getting Things Done', 'Holding Yourself Accountable', 'Interpersonal Communication', 'Learning from Failure', 'Phone-Based Customer Service', 'Problem Solving Techniques', 'Unconscious Bias', 'Working with Upset Customers', 'Microsoft Certified Solutions Associate', 'Microsoft Certified Technology Specialist', 'Microsoft Certified I.T. Professional', 'Microsoft Certified Professional', 'Microsoft Certified: Azure DevOps Engineer Expert', 'Microsoft Certified: Azure Developer Associate', 'Microsoft Certified Trainer 2019-2020', 'PMI-ACP']",9
+"['File', 'Server', 'Network']","['Information Systems Management and Technology', 'Construction and Community Development', 'Languages and Literature']",[''],[],14
+"['Test', 'Test', 'Test']",[],[''],[],0
+"['Troubleshooting', '10', 'Cloud', 'using']",[],[''],[],0
+"['Lean', 'Hazard', 'Advocacy']",['Network and Computer Systems'],[''],"['Hazardous Waste Management', 'Hazardous comunication', 'Safe transportation of hazardous materials(DOT)']",12
+"['Network', 'management']","['Telecommunications and Electronics', 'Engineering and Applied Sciences']",[''],"['CCIE R/S #24012', 'A+', 'MCSE', 'CASP', 'CCNA R&S', 'CCNA-Voice', 'CCNP', 'CCNP Voice']",0
+"['Server', 'Programming Paradigms', 'Visual', 'interface']",[],[''],[],0
+"['Cloud', 'management', 'AWS', 'fundamentals', 'Docker']",['Computer Science and Engineering'],[''],[],1
+"['gRPC', 'Software Testing and Quality Assurance', 'Dependency']","['Computer Science and Engineering', 'Electronic and Electrical Engineering']",[''],"['MCTS: .NET Framework 3.5, Windows Communication Foundation Applications', 'MCSD1: Microsoft .NET']",1
+"['Cloud', 'Kubernetes', 'Microservice']","['Electrical Engineering and Related Disciplines', 'Business Operations and Information Management']",[''],"['Architecting Hybrid Cloud Infrastructure with Anthos', 'Machine Learning - Stanford', 'Cloud Digital Leader', 'Professional Cloud Developer', 'Google Cloud Certified Professional Cloud Architect', 'Certified Scrum Master']",7
+['FPGA'],[],[''],[],0
+"['Spatial', 'Data Visualization and Analysis', 'GIS', 'proficiency']",['Electrical Engineering and Electronics'],[''],[],0
+"['Influencing', 'Data', 'synthesis']",['Control Engineering'],[''],['Cisco Certified Network Associate Voice (CCNA)'],0
+"['Go', 'development', 'Natural', 'processing']","['Systems Engineering', 'Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Test', 'Risk and Vulnerability Management']",['Engineering and Production Technologies'],[''],[],0
+"['Machine', 'algorithms\xa0', 'C']","['Computer Science and Engineering', 'Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['AI', 'Development', 'Cloud', 'Application']","['Machine Learning and Computer Vision', 'Astrophysics', 'Astrophysics']",[''],[],0
+"['Concurrency', 'Parallel', 'Multithreading']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Cybersecurity', 'Modular', 'Project']",[],[''],[],0
+"['Kotlin', 'ASP.NET', 'Advanced', 'Programming Paradigms']","['Languages and Literature', 'Information Systems Management and Technology', 'Software Engineering and Computing Technologies', 'Software Engineering and Computing Technologies']",[''],[],14
+"['Java', 'development', 'design', 'layer', 'technologies']",['Computer Systems and Systems Engineering'],[''],['Zuora Solution Architect Certification'],0
+"['Server', 'Test', 'Cloud', 'Design']",['Electrical Engineering and Electronics'],[''],[],0
+"['Security', 'Compliance', 'Data']","['Electrical and Computer Engineering', 'Electrical and Computer Engineering', 'Electrical and Computer Engineering']",[''],['Google Data Analytics Certificate'],15
+"['Incident', 'Assessment', 'Risk']","['Information Systems Management and Technology', 'Management and Business']",[''],"['Certified Information Systems Security Professional (CISSP)', 'Certified Information Systems Auditor (CISA)', 'security+']",15
+"['CRM', 'process', 'Data Analytics Suite']",['Mathematical Sciences'],[''],['Biz Apps IcM Handling Guidance'],15
+"['PC', 'IoT', 'Network']",['Electrical Engineering and Electronics'],[''],['ISTQB'],0
+"['C', 'Embedded', 'Cybersecurity']","['Electrical Engineering and Related Disciplines', 'Engineering and Applied Sciences', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Java', 'Audio', 'Interpersonal']","['Electrical Engineering and Related Disciplines', 'Electrical and Computer Engineering']",[''],[],7
+"['Data', 'Basic']","['Physical Sciences and Engineering', 'Physical Sciences and Engineering', 'Physical Sciences and Engineering']",[''],[],0
+"['Operating', 'management', 'Network', 'development']",['Computer Science and Engineering'],[''],[],1
+"['Code', 'Test', 'Object-oriented']",['Computer Science and Engineering'],[''],[],1
+"['Network', 'Big', 'architecture', 'Data Analytics Suite']",[],[''],[],0
+"['Voice', 'IP', 'Virtual', 'management', 'Network']",[],[''],[],0
+"['Serverless', 'Streaming', 'Kinesis']","['Computer Science Applications', 'Computer Science Applications']",[''],[],0
+"['Cloud', 'fundamentals', 'Windows']",['Computer Science and Information Systems'],[''],"['Server+', 'Network+', 'Certified Professional', 'A+']",0
+"['CircuitPython', 'Debugging and Troubleshooting', 'Pulse', 'modulation']","['Electrical and Computer Engineering', 'Languages and Literature', 'Electronics and Computer Systems', 'Control Engineering']",[''],[],14
+"['Debug', 'Concurrency', 'Proficiency']",['Information Technology'],[''],[],10
+"['Data', 'Cloud', 'SQL']",['Physical and Mathematical Sciences'],[''],[],0
+"['Web', 'Database', 'Programming']",[],[''],"['Oracle SOA Suite 12c Certified Implementation Specialist', 'Oracle Unified Business Process Management Suite 11g Certified Implementation Specialist', 'Oracle SOA Suite 11g Certified Implementation Specialist', 'Oracle Cloud Platform Application Integration 2020 Certified Specialist']",0
+"['Java', 'Boot']",['Information Technology'],[''],[],10
+"['Sampling', 'Concepts', 'Audio']","['Computer Science and Related', 'Computer Science and Information Systems', 'Music Performance', 'Languages and Literature']",[''],[],14
+"['Sound', 'Career', 'Audio']","['Mechanical Engineering and Related Fields', 'Mechanical Engineering and Related Fields']","['c programming', 'engineering economics', 'systems engineering certification']",[],0
+"['Device', 'development', 'Kernel', 'Programming Paradigms']",['Computer Science and Engineering'],[''],[],1
+"['Troubleshooting', 'systems', 'management', 'kernel']",['Computer Science and Engineering'],[''],['Microsoft Global Hackathon 2021'],1
+"['Storage', 'Storage', 'Administration']",['Electrical Engineering and Related Disciplines'],[''],"['Architecting Microsoft Azure Solutions', 'OpenHack: Security, Compliance, and Identity', 'Amazon Web Services Solutions Architect - Professional', 'VMware Certified Advanced Professional 6.5 - Data Center Virtualization Design', 'VMware Advanced Professional Network Virtualization 6', 'VMware Advanced Professional Network Virtualization 6', 'AWS Certified Solutions Architect - Associate', 'AWS Certified Solutions Architect - Associate', 'Nutanix Platform Professional 5 (NPP5)', 'VCP6-DV', 'DCUFI', 'DCUFD', 'VCP6-NV', 'VTSP 6', 'Nutanix Platform Professional on NOS 4 (NPP4)', 'SimpliVity Implementation', 'SimpliVity Pre-Sales', 'EMCSA', 'ITIL v3', 'DCUCT', 'VSP', 'VCAP5-DCD', 'DCUCD', 'Cisco Data Center Support for UC Specialist', 'Cisco Unified Computing Technology Support Specialist', 'DCUCI v5', 'VCP5-Cloud', 'VTSP 5', 'MCSE', 'Microsoft Certified: Azure Solutions Architect Expert', 'VCP 4', 'VCP 5', 'VCP7-CMA']",5
+"['Windows', 'storage', 'device', 'development']",['Electrical Engineering and Related Disciplines'],[''],"['• Exceptional Leadership of People, UCLA Extension, University of California, October 2004.']",7
+"['Network', 'Configuration', 'VPN']",[],[''],"['Certified Meraki Network Associate', 'AirMagnet Survey Pro Certified Professional', 'CCNP-Security', 'Cisco Certifed Systems Instructor (CCSI)', 'Community Emergency Response Team (CERT)']",0
+"['Video', 'Video', 'Cloud', 'design']","['Materials Science and Engineering Cluster', 'Engineering and Applied Sciences']",[''],[],0
+"['Cloud', 'management']",[],[''],[],0
+"['Video', 'Cloud', '360', 'production']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Data', 'Architecture']","['Machine Learning and Computer Vision', 'Computer Science and Engineering']","['computability', 'complexity algorithms', 'computer vision', 'data visual analytics', 'machine learning', 'machine learning trading', 'pattern recognition', 'web search text mining']",[],1
+"['CAD', 'proficiency', 'kernel', 'C', 'Debugging and Troubleshooting']","['Automation and Control Engineering', 'Automation and Control Engineering']",[''],"['Machine Learning', '6.00.1x: Introduction to Computer Science and Programming Using Python', 'C/C++ Programming Certificate', 'Machine Learning', 'Software Architecture: Principle and Practice']",0
+"['OSPF', 'RIP', 'EIGRP']","['Computer Science and Information Systems', 'Electronics and Computer Systems']",[''],"['A+', 'Network+']",0
+"['Hadoop', 'Spark', 'Big']",[],[''],"['Software Architecture Foundations', 'Programming Foundations: Design Patterns', 'Node.js Essential Training', 'Cloud Architecture: Advanced Concepts', 'Cloud Native Twelve-Factor Applications', 'Designing RESTful APIs', 'Learning Java Lambda Expressions', 'Mastering Microservices with Java', 'Microservices Foundations', 'Programming Foundations: Design Patterns', 'Programming Foundations: Real-World Examples']",0
+"['Linux', 'C']","['Electrical and Computer Engineering', 'Communication and Information Technology']",[''],[],15
+"['Data', 'Programming Paradigms', 'Cybersecurity', 'practices']",['Electrical Engineering and Electronics'],[''],[],0
+"['Model', 'Feature', 'Data']","['Electrical and Computer Engineering', 'Electrical and Computer Engineering']",[''],[],15
+"['Agile', 'Data', 'Product']",[],[''],[],0
+"['Cloud', 'design', 'Sales', 'optimization', 'AWS', 'development']","['Financial Management and Analysis', 'Communications and Electronics Engineering']",[''],[],12
+"['Network', 'creation', 'Conflict']",['Computer Science and Engineering'],[''],"['Microsoft Certified Solutions Associate: Office 365', 'UAS Remote Pilot', 'CCNA', 'CompTIA A+ ce Certification']",1
+"['Modular', 'development', 'Career']",['Communication and Information Technology'],[''],[],0
+"['Embedded', 'Programming', 'Multithreading', 'Concurrency']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['FPGA', 'synthesis', 'Modular']",['Electronic and Electrical Engineering'],[''],[],0
+"['Network', 'Security', 'Firewall']",[],[''],[],0
+"['Debugging', 'GUI', 'with', 'CEO']",[],[''],[],0
+"['Debugging', 'ASDR', 'Development']",[],[''],[],0
+"['Test', 'Python', 'Object-Oriented']",['Computer Science and Engineering'],[''],[],1
+"['Network', 'Automation', 'Ansible', 'management']",[],[''],"['Security Clearance', 'Project Management Professional (PMP)']",0
+"['Verilog', 'FPGA', 'Digital', 'design']","['Control Engineering', 'Electronic and Electrical Engineering']",[''],[],0
+"['Bean', 'Exception', 'Java', '8']",[],[''],[],0
+"['JavaScript', 'Operating', 'wireless']",['Computer Science and Engineering'],[''],[],1
+"['Data', 'Machine', 'Statistical']","['Systems Engineering', 'Mathematical Sciences', 'Mathematical Sciences']","['probability stochastic process 1', 'probability stochastic process 2', 'introduction operations research: probabilistic models', 'introductory stochastic differential equations with applications', 'modeling', 'simulation', 'monte carlo', 'statistical methods data analysis', 'stochastic optimization control', 'stochastic processes', 'agent-based modeling simulation complex systems', 'dynamic programming control', 'limit theorems stochastic processes', 'mathematical physics: measures on infinite dimensional spaces', 'mathematical programming', 'measure theoretic probability', 'microeconomic theory 1', 'microeconomic theory 2', 'time-series analysis', 'topics combinatorial optimization']","['Learning GitLab', 'Continuous Integration: Tools']",15
+"['Linux', 'Management', 'C', 'Debugging', 'IoT', 'Systems']","['Information and Telecommunication Technologies', 'Computer Science and Engineering', 'Bio-STEM Sciences']",[''],[],1
+"['Thread', 'Memory', 'Debugging']","['Engineering and Sciences', 'Financial Management and Analysis', 'Technology and Applied Sciences']",[''],[],0
+"['Debug', 'C', 'Linux']",[],[''],[],0
+"['FPGA', 'navigation', 'IT', 'fundamentals']",[],[''],[],0
+"['Cross-platform', 'development', 'Mobile', 'development', 'Visual', 'basics']",['Computer and Data Sciences'],[''],[],0
+"['VPN', 'Layer', 'Cybersecurity']","['Education and Teaching', 'Natural and Applied Sciences']",[''],"['Cisco Certified DevNet Associate', 'CCNP Security', 'CCNA Security', 'CCNP Route and Switch', 'CCNA Wireless', 'CCNA - Routing and Switching', 'Certified Information Systems Security Professional (CISSP)', 'Amazon Web Services Solutions Architect Associate']",15
+"['Network', 'Automation Engineering', 'Technical', 'management']",[],[''],[],0
+"['Network', 'Cloud', 'Microsoft', 'deployment']",[],[''],[],0
+"['Talent', 'learning', 'Project']","['Information Systems Management and Technology', 'Software Engineering and Computing Technologies']",[''],[],15
+"['Process', 'Kanban', 'Continuous']","['Cloud and Infrastructure Engineering', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Messaging', 'JMS', 'Spring', 'Microservices', 'Agile']",['Information Systems Management and Technology'],[''],[],15
+"['Schematic', 'Data Analytics Suite', 'PCB']",[],[''],[],0
+"['Cloud', 'management', 'Azure', 'architecture']","['Education and Teaching', 'Bio-STEM Sciences']",[''],"['Azure Developer - Storage - (L100) Foundational', 'Microsoft Certified: Azure Fundamentals', 'Azure Administration: Implement and Manage Storage', 'Securing the IoT: Introduction', 'Azure Administration Essential Training', 'Linux Foundation Cert Prep: Essential Commands (Ubuntu)', 'Deploying Azure File Sync', 'Learning VMware vSphere']",10
+"['Modular', 'GUI', 'envelope']","['Information Sciences and Engineering', 'Electrical Engineering and Related Disciplines']","['agile data creation maintenance', 'embedded core memory testing: algorithms', 'dft', 'bist', 'bisr industrial results', 'introduction jmp classes', 'six sigma foundations', 'teradyne tiger digital programming', 'teradyne ultraflex product engineering class', 'semiconductor processing overview', 'service teambuilding workshop', 'teradyne a580 mixed signal programming']",[],7
+"['Oscillator', 'Digital', 'Programming Paradigms']","['Data Science and Management', 'Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Unit', 'development', 'Debugging']","['Web Development and Design', 'Computer Science and Engineering', 'Network Engineering and Administration']","['topics object oriented programming (nodejs)', 'calculus', 'calculus', 'database theory', 'developing mobile apps (nodejs)', 'fundamentals cs (java)', 'fundamentals cs (java)', 'general chemistry', 'general engr physics i: newtonian mechanics', 'general engr physics ii: electromagnetics circuits', 'implementing mobile solutions (nodejs)', 'intro astronomy', 'macroeconomics', 'sql fundamentals', 'seminar game design unity', 'technical writing', 'using supporting linux', 'calculus', 'engineering: statics', 'entrepreneurship', 'intro azure automl', 'intro exploits on graphql', 'earthship biotecture academy', 'financial peace university - dave ramsey', 'general chemistry', 'general engr physics iii: waves optics']","['MTA: Database Fundamentals - Certified 2018', 'MTA: Introduction to Programming Using Java - Certified 2018', 'MTA: Introduction to Programming Using JavaScript - Certified 2018', 'MTA: Introduction to Programming using HTML and CSS', 'MTA: Software Development Fundamentals - Certified 2018', 'MCDST', 'Network+']",6
+"['Template', 'Programming Paradigms', 'Thread']",['Physical Sciences and Engineering'],[''],[],0
+"['Data', 'design', 'Modular']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Java', 'Web', 'Mobile']",['Computer Science and Engineering'],[''],[],1
+"['Device', 'editing', 'File']",[],[''],[],0
+"['Financial', 'Fiori', 'order']",['Information Technology and Management'],[''],"['SAP Certified Application Associate - SAP S/4HANA Cloud - essentials edition implementation with SAP Activate', 'Certified Scrum Product Owner (CSPO)']",0
+"['Server', 'Configuration Management', 'System']","['STEM', 'Computer Science and Engineering']",[''],[],1
+"['Design', 'Data Analytics Suite', 'Content']",['Communication and Information Technology'],[''],[],0
+"['AutoCAD', 'Civil', 'applications', 'Windows', 'implementation']","['Electrical and Computer Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Social', 'marketing', 'Database', 'planning']","['Computational Economics', 'Artificial Intelligence and Related Fields']",[''],[],0
+"['Debugging', 'API', 'Code', 'assurance']",['Electrical Engineering and Electronics'],[''],[],0
+"['PL/SQL', 'Cloud', 'administration']",[],[''],"['Oracle 10g OCP', 'Oracle Exadata 11g Certified Implementation Specialist']",0
+"['Tech', 'architecture', 'Collaboration']",['Natural and Applied Sciences'],[''],"['Senior Technical Leadership Program - Alumni', 'Agile Foundations', 'Microsoft Certified: DevOps Engineer Expert', 'OpenHack: DevOps', 'Azure Admistrator Associate', 'Microsoft Certified: Azure Administrator Associate', 'Microsoft Certified: Azure Administrator Associate', 'MS: Architecting Microsoft Azure Solutions', 'Microsoft Specialist: Architecting Microsoft Azure Solutions', 'Certified Information Systems Security Professional (CISSP)', 'Certified Information Systems Security Professional (CISSP)', 'MCPS: Microsoft Certified Professional', 'MCP - Sharepoint 2010', 'MCTS SharePoint 2007']",12
+"['IoT', 'management', 'CircuitPython', 'width']","['Electronic and Electrical Engineering', 'Business and Administration']",[''],[],0
+"['Debugging', 'Windows', 'Kernel']","['Electrical and Computer Engineering', 'Electrical and Computer Engineering', 'Electrical and Computer Engineering']",[''],[],15
+"['Performance', 'Programming', 'Hardware']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['FPGA', 'fundamentals', 'PCB']",['Engineering and Applied Sciences'],[''],[],0
+"['Unit', 'Resource', 'Querying']",['Physical and Mathematical Sciences'],[''],[],0
+"['FPGA', 'Coding', 'Hardware', 'Language']",[],[''],[],0
+"['Web', 'Programming Paradigms', 'Java', 'development']",['Communications and Electronics Engineering'],[''],['Sun Certified Java Developer'],12
+"['Computer', 'installation', 'Operating', 'Troubleshooting Proficiency', 'Pulse', 'modulation']",[],[''],[],0
+"['Data', 'engineering']",['Computational Mathematics and Engineering'],[''],"['IBM Certified Advanced Solution Expert - Cognos TM1', 'IBM Certified Specialist Cognos TM1 Data Analysis', 'IBM Certified Developer Cognos TM1']",0
+"['Cloud', 'basics', 'Serverless', 'fundamentals']",[],[''],[],0
+"['Device', 'development', 'JavaScript', 'design']",['Electrical and Computer Engineering'],[''],[],15
+"['.NET', 'C#', 'Software']",['Telecommunications and Electronics'],[''],[],0
+"['Communication', 'skills', 'Troubleshooting']","['Electrical and Computer Engineering', 'Electrical Engineering and Power Systems']",[''],[],15
+"['Network', 'Firewall', 'Routing', 'Configuration Management']","['Information Technology (IT) and Management', 'Information Technology and Applied Science']",[''],[],14
+"['Data', 'Analysis', 'Data']","['Cognitive and Computational Psychology', 'Cognitive and Computational Psychology', 'Communication and Information Technology']","['crossfit level 1 trainer', 'google data analytics', 'writing web']",['Google Data Analytics Certificate'],15
+"['Product', 'Analysis', 'Business', 'Development']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Data', 'Cloud', 'Android', 'Development']",['Computer Science and Engineering'],[''],[],1
+"['Data', 'Database', 'SQL']",['Systems Engineering'],"['m102: mongodb dbas', 'oracle autonomous database', 'oracle database 11g: administration workshop release 2']","['Oracle Autonomous Database Cloud Certified Professional', 'Become a Data Scientist', 'Oracle Cloud Infrastructure 2020 Certified Architect Associate', 'Oracle Cloud Infrastructure Foundations 2020 Certified Associate', 'Raspberry Pi Essential Training', 'Raspberry Pi: GPIO', 'Oracle Certified Professional, MySQL 5.6 Database Administrator', 'Oracle Real Application Clusters 12c Certified Implementation Specialist', 'Oracle Database 12c Administrator Certified Professional', 'Oracle Database 12c Certified Implementation Specialist', 'Oracle Database 11g Administrator - Certified Professional', 'Oracle Database 11g Administrator Certified Professional', 'Oracle Database 11g Administrator - Certified Associate', 'Oracle Database 11g Administrator Certified Associate', 'Oracle Cloud Infrastructure 2020 Certified Architect Associate']",15
+"['Design', 'MVC', 'Network']","['Electrical and Computer Engineering', 'Electrical and Computer Engineering']",[''],[],15
+"['Incident', 'Detection', 'Security']",['Financial Management and Analysis'],[''],[],0
+"['Data', 'Debugging', 'Code', 'Assurance']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Network', 'Planning', 'FPGA']",['Chemical Engineering and Allied Sciences'],[''],[],0
+"['Public', 'thinking']","['General and Interdisciplinary Studies', 'Languages and Literature']",[''],"['Joint Professional Military Education, Phase 1', 'Joint Professional Military Education, Phase 2']",14
+"['Writing', 'resolution', 'Sales']","['Cybersecurity and Information Assurance Cluster', 'Humanities and Social Studies']",[''],"['Site Security Manager (SSM) Certification', 'Positioning to Win & Capturing Federal Business', 'ICD 705 Physical Security Course', 'Construction Surveillance Technician (CST) Certification', 'Project Management Professional (PMP)', 'Agile Practitioner', 'Compliance Agent', 'Countermeasures Core Concepts, ORION, OSCOR, TALAN', 'Facility Security Officer (Possessing & Non-Possessing)']",15
+"['Signal', 'Network', 'Troubleshooting']",[],[''],[],0
+"['Debugging', 'Support', 'PHP']",['Information Systems Management and Technology'],[''],[],15
+"['Database', 'architecture', 'Data']",['Mathematical Sciences'],[''],[],15
+"['Semantic', 'building', 'Troubleshooting', 'systems', 'Embedded', 'Programming Paradigms']","['Engineering and Technology Specializations', 'Computer Science and Engineering']",[''],[],1
+"['Database', 'and', 'Programming Paradigms', 'Oracle', 'multitenant']","['Information Systems Management and Technology', 'Information Systems Management and Technology']",[''],[],15
+"['Web', 'Programming Paradigms', 'LINQ']",[],[''],[],0
+"['Business', 'Data Analytics Suite', 'Big', 'thinking', 'Terraform']","['Computer Science and Engineering', 'Electrical Engineering and Electronics']",[''],"['Certified SAFe® 5 Scrum Master', 'Certified SAFe® 4 Agilist']",1
+"['Cost', 'MicroPython', 'Quality']","['Electrical and Computer Engineering', 'Embedded Systems Engineering', 'Music and Technology']",[''],['Programming the Internet of Things (IOT) Specialization'],15
+"['data', 'data', 'data']",[],[''],"['Introduction to Generative AI', 'Introduction to Large Language Models', 'Introduction to Responsible AI', 'Infrastructure and Application Modernization with Google Cloud', 'Innovating with Data and Google Cloud', 'Introduction to Digital Transformation with Google Cloud', 'Understanding Google Cloud Security and Operations', 'Google #IamRemarkable Certified Gold Tier Facilitator', 'Cloud Digital Leader', 'Teradata Certified Professional']",0
+"['Monitor', 'Solutions', 'Implement', 'Angular']","['Languages and Literature', 'Languages and Literature']",[''],"['MVP Alumni', 'Collaborator - Database Docs', 'Azure Architecture Center Contributor - Bronze FY21', 'MCPS: Microsoft Certified Professional', 'DBA Oracle 9i', 'Microsoft Certified Technology Specialist: Web Applications Development with Microsoft .NET Framework 4']",14
+"['Agile', 'Development', 'Cloud']",['Languages and Literature'],[''],"['DevOps Foundations: Site Reliability Engineering', 'Microservices: Design Patterns', 'Software Architecture: Domain-Driven Design', 'Triplebyte Certified Generalist Software Engineer', 'Certified ScrumMaster']",14
+"['Data', 'Exception', 'Servlet']",['Computer Science and Engineering'],[''],[],1
+"['iOS', 'development', 'usage', 'design']","['Software Engineering and Computing Technologies', 'Software Engineering and Computing Technologies', 'Financial Management and Analysis']",[''],[],15
+"['Data', 'Server', 'design']",['Computer Science and Engineering'],[''],[],1
+"['Customer', 'Data Analytics Suite', 'Troubleshooting']",[],[''],[],0
+"['Data', 'FPGA', 'Data']",[],[''],[],0
+"['Windows', 'Management', 'Hybrid', 'Infrastructure', 'DHCP', 'DNS']",[],[''],"['Delivering an Authentic Elevator Pitch', 'MCPS: Microsoft Certified Professional']",0
+"['Mixing', 'scales', 'Music']",['Natural and Applied Sciences'],[''],[],0
+"['Cloud', 'Development', 'Ruby']","['Computer Science and Engineering', 'Engineering and Sciences']",[''],[],1
+"['Data', 'Problem-solving', 'computing']","['Computer Science and Engineering', 'Natural and Applied Sciences']",[''],[],1
+"['System', 'Deployment', 'Application']",[],[''],"['Microsoft Certified Trainer (MCT)', 'Microsoft Certified: Azure Fundamentals', 'Microsoft 365 Certified: Modern Desktop Administrator Associate', 'Microsoft Certified: Azure Administrator Associate', 'A+', 'Network+', 'Security+', 'Certified Encryption Specialist', 'Site Development Associate', 'Web Security Associate']",12
+"['Video', 'Collaboration', 'strategy']",[],[''],['Dante Audio'],0
+"['Network', 'Network', 'Network']",[],[''],[],0
+"['FPGA', 'Asynchronous', 'Privacy', 'assessment']",['Electrical Engineering and Related Disciplines'],[''],['Lean Six Sigma Certified Green Belt'],7
+"['Design', 'drivers']",['Computer Science and Engineering'],[''],[],1
+"['Cloud', 'management']","['Data Science and Management', 'Computer Science and Engineering']",['oracle certified functional consultant(procure pay)'],"['Oracle Financials Cloud: General Ledger 2019 Certified Implementation Specialist', 'Oracle Financials Cloud: Payables 2019 Certified Implementation Specialist', 'Oracle Financials Cloud: General Ledger 2019 Certified Implementation Specialist', 'Oracle Financials Cloud: Payables 2019 Certified Implementation Specialist']",1
+"['GANs', 'Diffusion', 'Manufacturing', 'Self-Belief', 'Entrepreneurship']",['Electronics and Computer Technology'],[''],[],0
+"['Data', 'Financial', 'Machine']","['Statistical Sciences', 'Statistical Sciences', 'Statistical Sciences']",[''],['Basic Python Skills'],0
+"['Package', 'Data', 'Backup', 'Recovery']",['Computational Mathematics and Engineering'],[''],"['Oracle Javascript Extension Toolkit (JET) MOOC', 'Oracle Cloud Infrastructure Foundations 2020 Certified Associate', 'Oracle Cloud Infrastructure Foundations 2020 Certified Associate']",15
+"['JavaScript', 'Synthesis', 'C', 'Debugging']",[''],[''],[],0
+"['Music', 'management', 'IoT', 'Data Analytics Suite']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Network', 'Troubleshooting', 'Cloud']",['Computer Science and Engineering'],[''],[],1
+"['Security', 'Security', 'Risk']","['Cybersecurity and Information Security', 'Criminal Justice and Related Fields']",['reid method interviewing interrogation'],[],0
+"['Risk', 'Threat', 'Server']",[],[''],"['Microsoft Certified: Security Operations Analyst Associate', 'Microsoft Certified: Security Operations Analyst Associate', 'Microsoft Certified: Azure Administrator Associate']",12
+"['Debugging', 'Development', 'Modular']","['Electrical and Computer Engineering', 'Communications and Electronics Engineering']",[''],[],12
+"['Security', 'Incident', 'Security']","['Information Technology (IT) and Management', 'Network Science and Engineering', 'Honors and Distinction Programs', 'Languages and Literature', 'Information Systems and Communication']","['administering splunk enterprise security', 'searching reporting with splunk 8.0', 'splunk 8.0 cloud admin', 'splunk fundamentals 2', 'splunk fundamentals 3', 'business data communications networks (graduate level)', 'data mining business intelligence (graduate level)', 'database design implementation business (graduate level)', 'database security (graduate level)', 'digital forensics investigations (graduate level)', 'enterprise information security (graduate level)', 'i.t. security policies procedures (graduate level)', 'it strategy management (graduate level)', 'information structures with python (graduate level)', 'information systems analysis design (graduate level)', 'quantitative methods information systems (graduate level)', 'unix operating systems - intro', 'unix shell programming', 'unix system administration', 'aws security fundamentals', 'cism course', 'by cybrary', 'chief information security officer (ciso) course', 'cybrary', 'incident response forensics', 'cybrary', 'incident response by sensato', 'cybrary', 'nist 800-171 controlled unclassified information course', 'offensive security wireless attacks (wifu)', 'oracle database 11g: backup recovery workshop', 'searching reporting with splunk 6.4', 'servicenow fundamentals', 'servicenow scripting fundamentals', 'servicenow scripting fundamentals', 'social engineering manipulation – exploitation human element', 'splunk knowledge objects', 'using splunk 6.4']","['Oracle Cloud Infrastructure Certified Architect Professional', 'ServiceNow Certified Admin', 'Splunk Certified Power User', 'COBIT 5 Foundation', 'Intermediate Cloud Security', 'Six Sigma Yellow Belt', 'CISSP', 'Incident Management', 'Mobile Device Security Fundamentals']",2
+"['API', 'service', 'Troubleshooting Proficiency']","['Electrical and Computer Engineering', 'Electronics and Computer Systems']",[''],[],15
+"['Mentor', 'managers', 'Manage', 'pipelines', 'Develop', 'applications']","['General and Interdisciplinary Studies', 'General and Interdisciplinary Studies']",[''],[],0
+"['Network', 'implementation']","['Physical and Mathematical Sciences', 'Electrical Engineering and Electronics']",[''],"['Google IT Automation with Python Specialization', 'Juniper Networks Certified Expert (JNCIE) SP', 'Juniper Networks Certified Internet Professional (JNCIP-E) DC', 'Juniper Networks Certified Expert (JNCIE) ENT']",0
+"['Manage', 'vSphere', 'Server']",[],[''],['Cloud Infrastructure and Services Associate Version 1'],0
+"['Scala', 'AI', 'AWS', 'basics']","['Electrical Engineering and Related Disciplines', 'Computer Science and Engineering', 'Engineering and Applied Sciences']",[''],[],13
+"['Video', 'management', 'Film']","['Digital Media and Communications', 'Digital Media and Communications', 'Communications and Electronics Engineering']",[''],[],12
+"['Hiring', 'cloud', 'resource', 'Azure']",['Management and Business'],[''],"['Google Cloud Certified: Cloud Digital Leader', 'AWS Certified Solutions Architect – Associate', 'AWS Certified Cloud Practitioner', 'AWS Certified SysOps Administrator – Associate', 'Agile, Scrum and Lean Software Development', 'CISCO Systems Management I', 'Capability Maturity Model Integration (CMMI)', 'Committee of Sponsoring Organizations (COSO)', 'GE Capital Six Sigma, Accenture Method One Methodologies', 'Good Manufacturing Practices standards certified (GMP)', 'IT Infrastructure Library V3 Certified (ITIL)', 'Information Systems Security Professional', 'International Organization for Standardization (ISO)', 'Lotus CLP R6 Certification', 'Lotus Domino Administration and Security I, II, III', 'Lotus Domino Development R4.x R5.x, R6.x, R7.x, R8.x', 'Microsoft Systems Professional', 'Project Management Professional', 'SAP Systems Architecture', 'Sarbanes Oxley (SOX)', 'Service-Oriented Architecture (SOA)', 'Software Development Life Cycle (SDLC), RUP,', 'Storage Lifecycle Management']",12
+"['Building', 'Modeling', 'Mechanical', 'Electrical', 'Plumbing', 'Digital', 'Drawings']",['Engineering and Applied Sciences'],[''],"['Nathan Wriedt, PE, RCDD']",0
+"['CAD', 'Sheet', 'Synthesis']",[],[''],[],0
+"['Cloud', 'building', 'Building', 'modeling']","['Languages and Literature', 'Mechanical Engineering and Related Fields']",[''],['Accredited Tier Designer'],14
+"['Functional', 'processing', 'Agile']","['Telecommunications and Electronics', 'Mathematical Sciences']",[''],[],15
+"['Firebase', 'Cross-platform', 'Game']",[],[''],[],0
+"['Troubleshoot', 'to', 'Cloud']",['Cognitive and Computational Psychology'],[''],[],0
+"['Cybersecurity', 'production', 'Computer', 'Troubleshooting Proficiency']",[],[''],[],0
+"['Functional', 'Programming Paradigms', 'C++']",['Computer Science and Engineering'],[''],[],1
+"['Swift', 'interface', 'App']",['Computer Science Applications'],[''],[],0
+"['RESTful', 'development', 'Java', 'app']",[],[''],"['BerkeleyX CS190.1x: Scalable Machine Learning', 'DelftX FP101x: Introduction to Functional Programming', 'Sun Certified Programmer for the Java Platform 5', 'Sun Certified Specialist for NetBeans IDE', 'IBM Websphere Studio Application Developer 5 (Java, J2EE)', 'IBM MQ Series, Installation and Configuration']",0
+"['Cloud', 'storage', 'Version', 'endpoint']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Wireless', 'setup', 'Windows', 'network', 'Programming Paradigms']",['Data Science and Analytics'],[''],[],0
+"['Troubleshooting', 'Windows', 'Windows', '2022']",[],[''],[],0
+"['Monitor', 'performance', 'Debug', 'code', 'Design', 'circuits']","['Communication and Information Technology', 'Industrial Engineering Cluster']",[''],[],0
+"['Debugging', 'on', 'for', 'Development', 'Debugging']",['Electrical Engineering and Related Disciplines'],[''],[],7
+"['Digital', 'Design', 'Network', 'Assessment', 'Embedded', 'Programming']",[],[''],[],0
+"['Deploy', 'Concurrency Management', 'Asynchronous']","['Computer Science and Engineering', 'Physical Sciences and Engineering', '']",[''],[],1
+"['Foster', 'Recognize', 'Promote']",['Chemical Engineering and Allied Sciences'],[''],[],0
+"['Android', 'development', 'Cloud', 'operations', 'SaaS']","['Information Technology', 'Information Systems Management and Technology']",[''],[],10
+"['Asynchronous', 'best']",[],['machine learning'],"['Natural Language Processing', 'Neural Networks for Machine Learning', 'Game Development']",0
+"['Big', 'Analytics', 'Cloud', 'Methodology']",['Computer Science and Engineering'],[''],[],1
+"['Test', 'design', 'Defect', 'Automation Engineering']",[],[''],[],0
+"['Information', 'program', 'Systems', 'application', 'Information', 'risk']","['Computer Science and Engineering', 'Electrical and Computer Engineering']",[''],[],1
+"['Design', 'Concurrency', 'Servers']",[],[''],['Completion Award for Oracle MOOC: Java Virtual Machine Troubleshooting'],0
+"['Ansible', 'management', 'Backup', 'recovery']","['Information Technology', 'Software Engineering and Computing Technologies']",[''],[],10
+"['Network', 'Video', 'Webinar']",['Electrical Engineering and Electronics'],[''],['CISCO CCNA'],0
+"['LINQ', 'Core', 'app']",['Computer Science and Engineering'],[''],['Certified Information System Security Professional'],1
+"['Alpha', 'management', 'Code']",['Financial Management and Analysis'],[''],[],0
+"['Parallel', 'Apache', 'Linux', 'management']",[],[''],[],0
+"['Sound', 'logic', 'Programming Paradigms']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Cloud', 'design', 'Azure', 'cloud']",['Computer Science and Information Systems'],"['configuring operating a hybrid cloud with microsoft azure stack (m20537)', 'microsoft az-300', 'microsoft operation manager']","['Microsoft Global Hackathon 2023', 'Accessibility in Action', 'Microsoft Certified: Azure AI Fundamentals', 'Microsoft Certified: Azure Data Fundamentals', 'Microsoft Certified: Security, Compliance, and Identity Fundamentals', 'AZ-301 Microsoft Azure Architect Design', 'Microsoft Certified: Azure Fundamentals', 'AZ-300 Microsoft Azure Architect Technologies', 'Az-300 Certification Exam', 'Microsoft Certified: Azure Solutions Architect Expert', 'Microsoft Certified: Azure Administrator Associate', 'Microsoft Certified: Azure Network Engineer Associate', 'Microsoft Certified: Azure Security Engineer Associate', 'Microsoft Certified: Azure Solutions Architect Expert', 'Microsoft Certified: Azure Administrator Associate', 'Microsoft Certified: Azure Network Engineer Associate', 'Microsoft Certified: Azure Solutions Architect Expert', 'Microsoft Certified: Azure Administrator Associate']",8
+"['Microservice', 'Software', 'API']","['Computer Science and Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Building', 'Modeling', 'Management', 'Management']","['Languages and Literature', 'Electrical Engineering and Electronics']",[''],"['Crafting Strategic Visual Stories', 'Presenting Data Visually', 'LEED AP Building Design + Construction', 'Professional Electrical Engineer']",14
+"['stress', 'planning', 'goal']","['Business and Administration', 'International Studies']",[''],"['Bystander Training: From Bystander to Upstander', 'Communicating about Culturally Sensitive Issues', 'Confronting Bias: Thriving Across Our Differences', 'Diversity, Inclusion, and Belonging for All', 'Unconscious Bias']",0
+"['Change', 'synthesis', 'Stirling', 'design']",['Cloud and Infrastructure Engineering'],[''],[],0
+"['IPv6', 'IP', 'Network']",[],[''],[],0
+"['Data', 'Engineering', 'Data']",['Industrial Engineering Cluster'],"['sql basic queries', 'data visualization nanodegree program', 'sql fundamentals querying level 1']",[],0
+"['Test', 'Test', 'Test']",['Information Systems Management and Technology'],[''],['Certified Functional Tester'],15
+"['Regression', 'Data', 'Statistical']","['Management and Business', 'Information Systems Management and Technology']",[''],[],15
+"['Manage', 'arrays', 'Configure', 'policies', 'Optimize', 'performance']","['Computer Science and Engineering', 'Computer Science and Engineering Degrees with Minors']",[''],[],1
+"['Software', 'JavaScript', 'Scrum']","['Computer Science Applications', 'Physical Sciences and Engineering']",[''],[],0
+"['VPN', 'WAN', 'Device']",['Philosophy and Related Fields'],[''],[],0
+"['Deploying', 'Apps', 'Databases', 'Node.js', 'WebSocket']",['Software Engineering and Computing Technologies'],[''],"['Data Science Foundations - Level 1', 'Docker Essentials: A Developer Introduction', 'IBM Cloud Kubernetes Service', 'IBM Demos Fundamentals', 'IBM Cloud Garage Test-Driven Development (TDD)', 'Enterprise Design Thinking Practitioner', 'IBM Cloud Garage Method Developer Bootcamp', 'IBM Garage Method for Cloud Explorer', 'Python 3 Tutorial Course']",15
+"['Test', 'browser', 'Software Testing and Quality Assurance']","['Software Testing and Quality Assurance', 'Engineering and Technology Specializations', 'Software Testing and Quality Assurance', 'Information and Communication Technologies (ICT)', 'Information Technology and Management']",[''],"['2021 Testing Bootcamp Session', 'Agile Foundations', 'Learning Jira Software', 'Project - Fraud Analytics Using R & Microsoft Excel', 'Scrum: The Basics', 'Testing Journey to Skyrocket 2021', 'World Class Mobile Testing Experience']",0
+"['JSON', 'Java', 'RESTful', 'development']",['Mathematical Sciences'],[''],"['Java - EJB 3.0', 'Java Server Pages (JSP 2.1)', 'Oracle Certified Professional, Java Programmer for Java 6.0']",15
+"['Server', 'Directory', 'maintenance']","['Information Technology', 'Management and Business', 'Languages and Literature', 'Languages and Literature']",[''],[],10
+"['Device', 'OS', 'Linux']","['Computer Science and Engineering', 'Telecommunications and Electronics']",[''],[],1
+"['Kubernetes', 'architecture', 'C']","['STEM', 'Chemical Sciences', 'Materials Science and Engineering Cluster']",[''],"['CCNA', 'SCJP']",0
+"['Verilog', 'PCB', 'Audio']",['Communications and Electronics Engineering'],[''],[],12
+"['Business', 'Cloud', 'Sales']",['Languages and Literature'],['sales closing'],[],14
+"['Data', 'Statistical', 'Regression']","['Industrial Engineering Cluster', 'Industrial Engineering Cluster', 'Statistical Sciences', 'Industrial Engineering Cluster']",[''],"['Art and Science of Machine Learning', 'Machine Learning with TensorFlow on Google Cloud Platform Specialization', 'Feature Engineering', 'Intro to TensorFlow', 'Launching into Machine Learning', 'Machine Learning', 'How Google does Machine Learning']",15
+"['VPN', 'RIP', 'EIGRP', 'Cisco', 'maintenance']",[],[''],[],0
+"['Security', 'Cybersecurity', 'Risk']","['Pre-Professional Studies', 'Bio-STEM Sciences']",[''],"['Certified Knowledge Manager (CKM) – Awarded by KM Institute, 2009', 'Master Certified Knowledge Manager (MCKM) – Awarded by KM Institute, 2010']",0
+"['Circuit', 'Debugging', 'Prototyping']",[],[''],[],0
+"['Device', 'Development', 'Debugging', 'vs.']",[],[''],[],0
+"['Java', 'Automation Engineering', 'C']","['Electrical and Computer Engineering', 'Computer Science and Engineering']",[''],[],1
+"['Web', 'development', 'Java', 'framework', 'attribute']",['Engineering and Applied Sciences'],[''],[],0
+"['Database', 'Java', 'SQL', 'Development']",[],[''],[],0
+"['PCB', 'synthesis', 'Linux', 'optimization']","['Electrical Engineering and Related Disciplines', 'Electrical Engineering and Related Disciplines']",[''],[],7
+"['Sound', 'Data', 'Digital']","['Electrical and Computer Engineering', 'Electronics and Computer Systems']",[''],[],15
+"['NoSQL', 'management', 'Data', 'principles', 'SQL', 'Data Analytics Suite']",[],[''],"['Apache Spark', 'Junior Beer Bottle Labeler', 'Teenage Mutant Ninja Turtles ( The Arcade Game ) Pro']",0
+"['Server', 'Networking', 'Hybrid']",[],[''],[],0
+"['PLC', 'Forecasting and Financial Management', 'DevOps']","['Electrical Engineering and Related Disciplines', 'Data Science and Management', 'Technical and Applied Sciences']",[''],"['White Card, General Construction Indication']",7
+"['Debugging', 'Device', 'Debugging']",[],[''],[],0
+"['Debug', 'Write', 'career']",['Computer Science and Engineering'],[''],['UC San Diego Extension Machine Learning Engineering Bootcamp'],1
+"['JSON', 'Spring', 'Microservice']","['Computer Science and Engineering', 'Information and Communication Technologies (ICT)']",[''],"['Exam Prep: Microsoft Azure Fundamentals (AZ-900)', 'Prepare for Azure Fundamentals Certification (AZ-900)', 'Introduction to Cloud Computing for IT Pros', 'Learning Azure Management Tools', 'Learning Cloud Computing: Core Concepts', 'Spring: Framework In Depth', 'Transitioning from Technical Professional to Manager', 'Learning Spring with Spring Boot', 'Microsoft Certified: Azure Developer Associate', 'Microsoft Certified: Azure Developer Associate', 'Microsoft Certified: Azure Fundamentals']",1
+"['Financial', 'integration', 'Business']",['Communications and Electronics Engineering'],"['abap web dynpro', 'introduction software development on sap hana', 'sap crm technical training']","['Evolved Web Apps with SAPUI5', 'SAP Retail Omnichannel Commerce', 'SAP Business Suite powered by SAP HANA', 'Introduction to Mobile Solution Development', 'Introduction to Software Development on SAP HANA', 'SAP Netweaver ABAP', 'Google Cloud Associate Cloud Engineer']",12
+"['AJAX', 'React', 'Full-stack']","['STEM', 'Software Engineering and Computing Technologies']",[''],['Java Essential Training'],15
+"['NoSQL', 'XAML', 'ASP.NET', 'development']",['Information Technology'],[''],"['Swift 5 Essential Training', 'Objective-C Essential Training', 'Xcode 12 Essential Training', 'iOS App Development: Essential Courses', 'Microsoft Certified: Azure Data Fundamentals', 'Microsoft Certified: Power Platform Fundamentals', 'Microsoft Certified: Azure Fundamentals', 'Certified Secure Software Lifecycle Professional (CSSLP)', '.NET Framework', '70-480 - Programming in HTML5 with JavaScript and CSS', '70-486 - Developing ASP.NET MVC 4 Web Applications', '70-488 - Developing Microsoft SharePoint Server 2013 Core Solutions', '70-489 - Developing Microsoft SharePoint Server 2013 Advanced Solutions', '70-573 - Microsoft® Certified Technology Specialist: Microsoft Office SharePoint Server 2010, Application Development', '70-576 - PRO: Designing and Developing Microsoft SharePoint 2010 Applications', 'ASP.NET', 'Active Server Pages', 'C# Language', 'MB2-700 - Microsoft Specialist - Microsoft Dynamics CRM 2013 Applications', 'MB2-701 - Extending Microsoft Dynamics CRM 2013', 'MB2-702 - Microsoft Dynamics CRM 2013 Customization and Configuration', 'MB2-866 - Microsoft Dynamic CRM 2011, Customization and Configuration', 'MB2-876 - Microsoft Certified Dynamics Specialist: Microsoft Dynamics CRM 2011 Extending', 'MCP - Analyzing the Requirement And Solution Architecture', 'MCP - Analyzing the Requirement And Solution Architecture in .NET', 'MCP - Designing and Implementing the Database using SQL Server 2000', 'MCP - Web based application using Asp.Net and C#', 'MCP - Windows Desktop Application', 'MCP - Windows Distributed Application', 'MCP - XML Web Services using C# and .NET Framework', 'MCSD: SharePoint 2013 Applications', 'Master SQL (ANSI) Fundamentals', 'Microsoft Certified Application Developer - .NET track', 'Microsoft Certified Professional Developer - SharePoint 2010', 'Microsoft Certified Solution Developer - Visual Basic Track', 'Microsoft® Certified Technology Specialist: Microsoft Office SharePoint Server 2007, Application Development', 'OO Concepts', 'RDBMS Concepts', 'TS: Accessing Data with Microsoft .NET Framework 4', 'XML Concepts']",3
+"['React', 'MVC', 'Package', 'Management', 'Node.js', 'Development']",['Electrical and Computer Engineering'],[''],"['Agile Project Management', 'Project Execution: Running the Project', 'Google Project Management | Specialization', 'Project Planning: Putting It All Together', 'Project Initiation: Starting a Successful Project', 'Foundations of Project Management', 'Unconscious Bias', 'Learning webpack 4', 'Android Developer Nanodegree']",15
+"['Kernel', 'Width']",[],[''],[],0
+"['Risk', 'Security', 'Incident']",['STEM'],[''],[],0
+"['Manage', 'Implement', 'Manage']",[],[''],[],0
+"['Data', 'SQL', 'Data']","['Information Technology', 'Chemical Sciences']",[''],"['Introduction to Big Data Analytics', 'Hadoop Platform and Application Framework', 'Machine Learning']",10
+"['Troubleshooting', 'Security', 'Basic', 'Troubleshooting']","['Technical and Applied Sciences', 'Web Development and Design', 'Electronic and Electrical Engineering']",[''],[],0
+"['Data', 'Decision-making', 'personalization']","['Marketing and Business', 'Business and Administration']",[''],[],0
+"['gRPC', 'JDBC', 'XML']","['Software Engineering and Computing Technologies', 'Software Engineering and Computing Technologies']",[''],[],0
+"['C++', 'Practices', 'Structures', 'Language']",[],['google cloud platform fundamentals: core infrastructure'],[],0
+"['Network', 'Security', 'IT', 'Management']",['Information Technology'],[''],"['Certified Information Security Manager (CISM)', 'Certified Information Systems Security Professional (CISSP)', 'ITIL Foundation', 'Windows 2003 MCSE & MCSA', 'CrowdStrike Certified Falcon Responder (CCFR)']",10
+"['Workforce', 'localization', 'Python']",[],[''],[],0
