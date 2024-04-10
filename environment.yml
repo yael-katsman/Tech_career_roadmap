@@ -1,0 +1,19 @@
+name: project_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - tensorflow
+  - pillow
+  - opencv
+  - ipython
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - wordcloud
+  - pip:
+    - google-generativeai
