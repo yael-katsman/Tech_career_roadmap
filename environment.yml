@@ -16,5 +16,6 @@ dependencies:
   - seaborn
   - wordcloud
   - papermill
+  - ipywidgets>=7.5.1
   - pip:
     - google-generativeai
