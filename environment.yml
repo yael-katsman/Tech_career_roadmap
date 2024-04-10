@@ -15,5 +15,6 @@ dependencies:
   - matplotlib
   - seaborn
   - wordcloud
+  - papermill
   - pip:
     - google-generativeai
