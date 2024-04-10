@@ -12,12 +12,11 @@ To install and run the code on your local machine, follow these steps:
 1. ### Clone the repository
    First, clone the repository to your local machine using Git. Open a terminal and run the following command:
     ```bash
-    git clone https://github.com/hillysegal1/plant-interactive-model
-    ```
+    git clone https://github.com/yael-katsman/Tech_career_roadmap
 2. ### Create and activate the conda environment
    After cloning the repository, navigate into the project directory:
     ```bash
-    cd plant-interactive-model
+    cd Tech_career_roadmap
     ```
     Then, use the following command to create a conda environment from the environment.yml file provided in the project:
     ```bash
@@ -25,7 +24,7 @@ To install and run the code on your local machine, follow these steps:
     ```
     Activate the environment with the following command:
    ```bash
-    conda activate plant_system_env
+    conda activate project_env
     ```
    ## Running the System: 
 To run the project, follow these steps: 
@@ -47,5 +46,5 @@ To run the project, follow these steps:
    
 3. Run the command:
    ```bash
-   streamlit run app.py 
+   jupyter nbconvert --to notebook --execute your_notebook.ipynb 
    ```
