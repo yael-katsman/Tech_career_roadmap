@@ -3,7 +3,16 @@ Tech Career Roadmap Personalized Guidance for Career Development using LinkedI
 # Overview:
 Our project tackles the need for LinkedIn users, particularly those in the tech field, to navigate their career paths effectively. By harnessing artificial intelligence, we've developed a solution that enhances professional portfolios. Unlike conventional methods focused solely on profile presentation, our model identifies skill gaps, recommends tailored learning resources, and offers steps for career advancement. This initiative empowers users to bridge the gap between their current position and career aspirations, fostering efficiency and strategic advantages in professional development.
 # System Description:
+Our project delivers an innovative solution aimed at empowering LinkedIn users in the tech industry to strategically navigate their career paths. By leveraging artificial intelligence, we've developed a system that goes beyond mere profile enhancement. Our model identifies skill gaps and recommends personalized learning resources and career advancement steps, enabling users to effectively transition from their current roles to their desired career trajectories.
 
+Key Features:
+
+Skill Gap Identification: Pinpoints areas for professional growth.
+Personalized Learning Recommendations: Suggests courses and certifications tailored to the user's specific needs.
+Career Progression Strategy: Provides actionable steps for moving forward in one's career.
+Our approach utilizes K-means Clustering for in-depth data analysis, categorizing users into junior, senior, and expert levels based on their experience. This classification helps tailor recommendations that resonate with the user's current professional stage. Unlike conventional methods, our algorithm focuses on suggesting new skills for development, supported by an analysis of degree fields, course titles, and certification titles.
+
+For developers and tech enthusiasts interested in exploring the intricacies of our project or contributing to its evolution, this repository offers a comprehensive look at the algorithms, methodologies, and insights that underpin our solution.
 # Getting Started:
 ## Setting up the Development Environment:
 Pre-requisites: Git and Anaconda. 
