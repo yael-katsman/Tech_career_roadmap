@@ -33,7 +33,6 @@ import re
 
 
 # Ignore all warning messages
-warnings.filterwarnings("ignore")
 pd.set_option('display.max_colwidth', None)
 
 import pandas as pd
