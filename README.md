@@ -55,6 +55,7 @@ To run the project, follow these steps:
 
    ```
 For this, you can use any URL in our scraping file or the following examples: 
+
 https://www.linkedin.com/in/yuan-anne-feng-821a7618
 
 https://www.linkedin.com/in/brent-bryan
