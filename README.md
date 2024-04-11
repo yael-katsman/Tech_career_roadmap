@@ -35,8 +35,11 @@ To run the project, follow these steps:
    ```
 For this, you can use any URL in our scraping file or the following examples: 
 https://www.linkedin.com/in/yuan-anne-feng-821a7618
+
 https://www.linkedin.com/in/brent-bryan
+
 https://www.linkedin.com/in/joselom23
+
 ## scraping and cleaning:
 ### choosing users to scrape:
 We utilized the users’ current company and current position, as described in the BrightData- profiles data set to determine if they are considered successful in the tech field
