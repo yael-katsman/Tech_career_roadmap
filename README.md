@@ -28,27 +28,15 @@ To install and run the code on your local machine, follow these steps:
     ```
    ## Running the System: 
 To run the project, follow these steps: 
-1. To use the Gemini API in this project, you need to authenticate with your API key. Your personal key can be found in: 
-   https://ai.google.dev/.
-
-   Copy your key and run the following command in the terminal:
-
-   For Windows:
-   ```bash
-   set API_KEY=your_api_key
-   ```
-
-   For Linux and macOS:
-   ```bash
-   export API_KEY=your_api_key
-
-   ```
-   
 3. Run the command:
    ```bash
-   python run.py /path/to/user_data.csv model_and_eval.ipynb
+   python Lab_user_simulation.py <user URL>
 
    ```
+For this, you can use any URL in our scraping file or the following examples: 
+https://www.linkedin.com/in/yuan-anne-feng-821a7618
+https://www.linkedin.com/in/brent-bryan
+https://www.linkedin.com/in/joselom23
 ## scraping and cleaning:
 ### choosing users to scrape:
 We utilized the users’ current company and current position, as described in the BrightData- profiles data set to determine if they are considered successful in the tech field
