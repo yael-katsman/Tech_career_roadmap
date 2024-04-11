@@ -171,9 +171,9 @@ def map_new_skills(row):
 def user_recommendation(test_df):
     ## add a row that turns a csv into a pd df, not sure how when not in pandas
     exp_dfs = []
-    exp_dfs.append(pd.read_csv('junior_df.csv'))
-    exp_dfs.append(pd.read_csv('senior_df.csv'))
-    exp_dfs.append(pd.read_csv('expert_df.csv'))
+    exp_dfs.append(pd.read_csv('clean_data\junior_df.csv'))
+    exp_dfs.append(pd.read_csv('clean_data\senior_df.csv'))
+    exp_dfs.append(pd.read_csv('clean_data\expert_df.csv'))
     df_names = ['junior', 'senior', 'expert']
     test_df['exp_index'] = test_df['exp_duration'].apply(lambda x: map_exp_index(x))
     exp_test_dfs = []
