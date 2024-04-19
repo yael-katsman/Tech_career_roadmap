@@ -234,7 +234,6 @@ def run_user(url,junior, senior, expert):
   merged_df = pd.concat([junior, senior, expert], ignore_index=True)
   test_user_url = url
   test_user = merged_df[merged_df['url']==test_user_url]
-  test_user["exp_duration"] = 50
   print("The user's profile:")
   user_recommendation(test_user,junior, senior, expert)
 
