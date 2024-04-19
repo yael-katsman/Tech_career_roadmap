@@ -246,3 +246,6 @@ if __name__ == "__main__":
     senior = sys.argv[3]
     expert = sys.argv[4]
     run_user(url, junior, senior, expert)
+  else:
+    print( len(sys.argv))
+    
