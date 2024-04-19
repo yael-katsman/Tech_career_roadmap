@@ -236,7 +236,6 @@ def run_user(url,junior, senior, expert):
   test_user = merged_df[merged_df['url']==test_user_url]
   test_user["exp_duration"] = 50
   print("The user's profile:")
-  display(test_user[['skills','degree_field','courses_title','cert_titles']].head())
   user_recommendation(test_user,junior, senior, expert)
 
 if __name__ == "__main__":
