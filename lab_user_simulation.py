@@ -239,9 +239,10 @@ def run_user(url,junior, senior, expert):
   display(test_user[['skills','degree_field','courses_title','cert_titles']].head())
   user_recommendation(test_user,junior, senior, expert)
 
-if len(sys.argv) == 5:  # Expecting 5 arguments: 1 string and 4 file paths
-  url = sys.argv[1]
-  junior = sys.argv[2]
-  senior = sys.argv[3]
-  expert = sys.argv[4]
-  run_user(url, junior, senior, expert)
+if __name__ == "__main__":
+  if len(sys.argv) == 5: 
+    url = sys.argv[1]
+    junior = sys.argv[2]
+    senior = sys.argv[3]
+    expert = sys.argv[4]
+    run_user(url, junior, senior, expert)
