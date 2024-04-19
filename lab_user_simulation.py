@@ -240,8 +240,8 @@ def run_user(url,junior, senior, expert):
   user_recommendation(test_user,junior, senior, expert)
 
 if len(sys.argv) == 5:  # Expecting 5 arguments: 1 string and 4 file paths
-  link = sys.argv[1]
+  url = sys.argv[1]
   junior = sys.argv[2]
   senior = sys.argv[3]
   expert = sys.argv[4]
-  run_user(link, junior, senior, expert)
+  run_user(url, junior, senior, expert)
