@@ -30,10 +30,11 @@ import json
 from collections import Counter
 import ast
 import re
-import sys
-
+from google.colab import files
+import warnings
 
 # Ignore all warning messages
+warnings.filterwarnings("ignore")
 pd.set_option('display.max_colwidth', None)
 
 import pandas as pd
@@ -168,12 +169,12 @@ def map_new_skills(row):
     key = (exp_index, cluster_label)
     return
 
-def user_recommendation(test_df):
+def user_recommendation(test_df,junior, senior, expert):
     ## add a row that turns a csv into a pd df, not sure how when not in pandas
     exp_dfs = []
-    exp_dfs.append(pd.read_csv('clean_data\junior_df.csv'))
-    exp_dfs.append(pd.read_csv('clean_data\senior_df.csv'))
-    exp_dfs.append(pd.read_csv('clean_data\expert_df.csv'))
+    exp_dfs.append(pd.read_csv(junior))
+    exp_dfs.append(pd.read_csv(senior))
+    exp_dfs.append(pd.read_csv(expert))
     df_names = ['junior', 'senior', 'expert']
     test_df['exp_index'] = test_df['exp_duration'].apply(lambda x: map_exp_index(x))
     exp_test_dfs = []
@@ -231,20 +232,21 @@ def user_recommendation(test_df):
 
     print("\nWe hope you find these recommendations helpful for advancing your career and skillset!")
 
-def run_user(url):
-  junior = pd.read_csv('clean_data\junior_df.csv')
-  senior = pd.read_csv('clean_data\senior_df.csv')
-  expert = pd.read_csv('clean_data\expert_df.csv')
+def run_user(url,junior, senior, expert):
+  junior = pd.read_csv(junior)
+  senior = pd.read_csv(senior)
+  expert = pd.read_csv(expert)
   merged_df = pd.concat([junior, senior, expert], ignore_index=True)
   test_user_url = url
   test_user = merged_df[merged_df['url']==test_user_url]
   test_user["exp_duration"] = 50
   print("The user's profile:")
-  ###display(test_user[['skills','degree_field','courses_title','cert_titles']].head())
-  user_recommendation(test_user)
+  display(test_user[['skills','degree_field','courses_title','cert_titles']].head())
+  user_recommendation(test_user,junior, senior, expert)
 
-if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        link = sys.argv[1]
-        run_user(link)
-
+if len(sys.argv) == 6:  # Expecting 5 arguments: 1 string and 4 file paths
+  link = sys.argv[1]
+  junior = sys.argv[2]
+  senior = sys.argv[3]
+  expert = sys.argv[4]
+  run_user(link, junior, senior, expert)
