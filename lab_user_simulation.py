@@ -167,9 +167,9 @@ def map_new_skills(row):
 def user_recommendation(test_df,junior, senior, expert):
     ## add a row that turns a csv into a pd df, not sure how when not in pandas
     exp_dfs = []
-    exp_dfs.append(pd.read_csv(junior))
-    exp_dfs.append(pd.read_csv(senior))
-    exp_dfs.append(pd.read_csv(expert))
+    exp_dfs.append(junior)
+    exp_dfs.append(senior)
+    exp_dfs.append(expert)
     df_names = ['junior', 'senior', 'expert']
     test_df['exp_index'] = test_df['exp_duration'].apply(lambda x: map_exp_index(x))
     exp_test_dfs = []
@@ -235,6 +235,7 @@ def run_user(url,junior, senior, expert):
   test_user_url = url
   test_user = merged_df[merged_df['url']==test_user_url]
   print("The user's profile:")
+  display(test_user[['skills','degree_field','courses_title','cert_titles']].head())
   user_recommendation(test_user,junior, senior, expert)
 
 if __name__ == "__main__":
