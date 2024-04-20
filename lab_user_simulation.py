@@ -254,3 +254,6 @@ if __name__ == "__main__":
     url = sys.argv[1]
     dataset = sys.argv[2]
     run_user(url, dataset)
+  print(len(sys.argv))
+
+
