@@ -169,6 +169,7 @@ def map_new_skills(row):
 
 def user_recommendation(test_df,dataset):
     ## add a row that turns a csv into a pd df, not sure how when not in pandas
+    print(dataset['exp_duration'])
     conditions = [
     dataset['exp_duration'] <= 100,
     (dataset['exp_duration'] > 100) & (dataset['exp_duration'] <= 250),
