@@ -250,10 +250,9 @@ def run_user(url,dataset):
   user_recommendation(test_user,dataset)
 
 if __name__ == "__main__":
-  if len(sys.argv) == 2:
+  if len(sys.argv) == 3:
     url = sys.argv[1]
     dataset = sys.argv[2]
     run_user(url, dataset)
-  print(len(sys.argv))
 
 
