@@ -29,7 +29,7 @@ We're excited to share this journey with you and look forward to your contributi
 ## Setting up the Development Environment:
 Pre-requisites: Git and Anaconda. 
 
-download junior_df,senior_df, and expert_df
+download model_df
 
 To install and run the code on your local machine, follow these steps:
 1. ### Clone the repository
