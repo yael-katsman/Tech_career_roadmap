@@ -53,7 +53,7 @@ To install and run the code on your local machine, follow these steps:
 To run the project, follow these steps: 
 3. Run the command:
    ```bash
-   python Lab_user_simulation.py <user URL> path/to/junior_df path/to/senior_df path/to/expert_df
+   python Lab_user_simulation.py <user URL> path/to/model_df (link to model_df drive was submitted in the sumbission box)
 
    ```
 For this, you can use any URL in our scraping file or the following examples: 
