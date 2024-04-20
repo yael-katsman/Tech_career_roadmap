@@ -164,12 +164,12 @@ def map_new_skills(row):
     key = (exp_index, cluster_label)
     return
 
-def user_recommendation(test_df,dataset):
-    ## add a row that turns a csv into a pd df, not sure how when not in pandas
+def user_recommendation(test_df,dataset_path):
+    dataset = pd.read_csv(dataset_path)
     conditions = [
-    int(dataset['exp_duration']) <= 100,
-    (int(dataset['exp_duration'] > 100)) & (int(dataset['exp_duration']) <= 250),
-    int(dataset['exp_duration']) > 250
+    dataset['exp_duration'] <= 100,
+    (dataset['exp_duration'] > 100) & (dataset['exp_duration'] <= 250),
+    dataset['exp_duration'] > 250
     ]
     df_names = ['junior', 'senior', 'expert']
     dataset['exp_index'] = np.select(conditions, df_names, default='junior')
