@@ -67,12 +67,12 @@ https://www.linkedin.com/in/joselom23
 ## scraping and cleaning:
 ### choosing users to scrape:
 We utilized the users’ current company and current position, as described in the BrightData- profiles data set to determine if they are considered successful in the tech field
-you can see the code in the finding_users_to_scrape.ipynb and the chosen users in the scraping.zip file
+you can see the code in the finding_users_to_scrape.ipynb and the chosen users in the scraping_users file
 ### Scraping and general cleaning:
-Due to limitations in accessing users' skills directly in LinkedIn profiles, we resorted to scraping the titles and URLs of videos listed under the “Add new skills with these courses” section, which are tailored to enhance various competencies and closely reflect the actual skill sets of the users, as can be seen in figures (1)+(2) in the appendix. Additionally, we leveraged Bright Data's existing scraper to collect user profile URLs and IDs for identification. 
+Due to limitations in accessing users' skills directly in LinkedIn profiles, we resorted to scraping the titles and URLs of videos listed under the “Add new skills with these courses” section, which are tailored to enhance various competencies and closely reflect the actual skill sets of the users, as can be seen in figures (1)+(2) . Additionally, we leveraged Bright Data's existing scraper to collect user profile URLs and IDs for identification, we saved the data in the file named web_scraping_results. 
 After collecting the names of the videos we aimed to transform them into meaningful skill names, to do this we employed Geminis API. After passing the names through the API with the prompt “I will provide you a list of video names, for each name write what skill the video teaches in the following format: "video name"@ "your answer":”
 Given that some skill names were similar or highly related, we applied K-means Clustering to group them accordingly, representing the skills as TF-IDF vectors. We encountered some problematic clusters that encompassed a wide range of skills without distinctly corresponding to specific skill topics, as can be seen in figure (3) . To address this issue, we conducted re-clustering exclusively on the problematic clusters. Additionally, using the Gemini API, we named all clusters, addressing any duplicate names. Finally, we mapped each user’s skills to the corresponding cluster names.
-you can see the scraping code in the Scraping.ipynb and the scraped data file in the scraping.zip file or https://drive.google.com/file/d/1SJ1G9HmwvQ7vwlPNFwmojDp_SEeY4geW/view?usp=sharing
+you can see the scraping code in the Scraping.ipynb and the scraped data file is web_scraping_results which can be see in our report and drive folder
 ![image](https://github.com/yael-katsman/Tech_career_roadmap/assets/166139874/0955e5a2-d87c-4c3e-b160-dd273417822e)
 ![image](https://github.com/yael-katsman/Tech_career_roadmap/assets/166139874/c1c03974-de47-476e-ae86-6b5896638730)
 
