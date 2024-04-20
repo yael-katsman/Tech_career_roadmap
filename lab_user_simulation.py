@@ -32,9 +32,6 @@ import ast
 import re
 import sys
 
-# Ignore all warning messages
-pd.set_option('display.max_colwidth', None)
-
 import pandas as pd
 import ast
 from collections import Counter
@@ -169,11 +166,10 @@ def map_new_skills(row):
 
 def user_recommendation(test_df,dataset):
     ## add a row that turns a csv into a pd df, not sure how when not in pandas
-    print(dataset['exp_duration'])
     conditions = [
-    dataset['exp_duration'] <= 100,
-    (dataset['exp_duration'] > 100) & (dataset['exp_duration'] <= 250),
-    dataset['exp_duration'] > 250
+    int(dataset['exp_duration']) <= 100,
+    (int(dataset['exp_duration'] > 100)) & (int(dataset['exp_duration']) <= 250),
+    int(dataset['exp_duration']) > 250
     ]
     df_names = ['junior', 'senior', 'expert']
     dataset['exp_index'] = np.select(conditions, df_names, default='junior')
@@ -255,5 +251,4 @@ if __name__ == "__main__":
     url = sys.argv[1]
     dataset = sys.argv[2]
     run_user(url, dataset)
-
-
+  print(len(sys.argv))
