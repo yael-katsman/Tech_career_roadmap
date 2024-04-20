@@ -203,8 +203,9 @@ def user_recommendation(test_df,dataset_path):
         clustered_test_dfs.append(clustered_test_df)
 
 
+    df_names =[test_df['exp_index'].iloc[0]]
+    
     stats_dict = create_dict(clustered_dfs,df_names)
-
     with open('clean_data\skill_dict.json', 'r') as json_file:
         skill_dict = json.load(json_file)
 
